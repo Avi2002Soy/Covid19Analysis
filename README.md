@@ -1,4 +1,4 @@
-# Covid19 Vaccination Visualisation & Prediction
+# Covid 19 Analysis - Visualisation & Prediction
 It's a python program to Visualise the Covid-19 Situation and also predict the Covid Cases in Upcoming Days
 # Tools Used
 Tools Used:- Numpy,Pandas,Matplotlib, Math, Scikit-Learn
